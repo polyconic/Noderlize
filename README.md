@@ -25,6 +25,6 @@ governance, ensuring transparency, protecting rights, and enabling accountabilit
 in a rapidly evolving digital landscape._
 
 ## Full Whitepaper  
-📄 [Click here to read the full PDF](Provenance_ Noderlize for Transparent Governance _ January 2025.pdf)
+📄 [Click here to read the full PDF](https://github.com/polyconic/Noderlize/blob/2736f57952a8a42c6f3cfed7a93a595b53391876/Provenance_%20Noderlize%20for%20Transparent%20Governance%20_%20January%202025.pdf)
 
 ---
